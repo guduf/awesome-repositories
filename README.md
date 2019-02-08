@@ -47,6 +47,7 @@
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
 
 ## Misc
+- **[Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator):** Fantasy Map Generator and Editor based on Voronoi diagram.
 - **[solid/solid](https://github.com/solid/solid):** Solid - Re-decentralizing the web (project directory).
 - **[idea4good/GuiLite](https://github.com/idea4good/GuiLite):** The smallest UI framework for all platform -- 5K lines code
 
