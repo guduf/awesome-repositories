@@ -1,10 +1,14 @@
 # awesome-repositories
 
 ## Awesomes lists
+- **[emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome):** A curated list of awesome curated lists of many topics.
+
+
 - **[avelino/awesome-go](https://github.com/avelino/awesome-go):** A curated list of awesome Go frameworks, libraries and software.
 - **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy):** A curated list of awesome warez and piracy links.
 - **[rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts):** Collection of awesome podcasts.
 - **[terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers):** The most cited deep learning papers.
+- **[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript):** A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - **[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode):** A curated list of delightful VS Code packages and resources.
 
 ## Database
