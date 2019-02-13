@@ -2,8 +2,7 @@
 
 ## Awesomes lists
 - **[emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome):** A curated list of awesome curated lists of many topics.
-
-
+----
 - **[avelino/awesome-go](https://github.com/avelino/awesome-go):** A curated list of awesome Go frameworks, libraries and software.
 - **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy):** A curated list of awesome warez and piracy links.
 - **[rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts):** Collection of awesome podcasts.
