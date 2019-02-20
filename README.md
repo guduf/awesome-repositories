@@ -51,6 +51,7 @@
  ### Documentation
  - **[golang-standards/project-layout](https://github.com/golang-standards/project-layout)**: Standard Go Project Layou.
  ### Librairies
+ - **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
  - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
  
  ## Docker / Kubernetes
@@ -64,6 +65,7 @@
 - **[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules):** Flight rules for git.
 ### Librairies
 - **[antonmedv/fx](https://github.com/antonmedv/fx):** Command-line tool and terminal JSON viewer.
+- **[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs):** Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - **[glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo):** The easiest way to demonstrate your code in action.
 - **[imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server):** An evolving how-to guide for securing a Linux server.
 - **[isacikgoz/gitin](https://github.com/isacikgoz/gitin):** commit/branch/workdir explorer for git
@@ -75,6 +77,10 @@
 
 ## Design
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
+
+## Guides
+- **[charlax/professional-programming](https://github.com/charlax/professional-programming):** A collection of full-stack resources for programmers.
+- **[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):** A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 
 ## Misc
 - **[Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator):** Fantasy Map Generator and Editor based on Voronoi diagram.
