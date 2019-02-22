@@ -3,8 +3,10 @@
 ## Awesomes lists
 - **[emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome):** A curated list of awesome curated lists of many topics.
 ----
+- **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems):** A collection of awesome design systems.
 - **[avelino/awesome-go](https://github.com/avelino/awesome-go):** A curated list of awesome Go frameworks, libraries and software.
 - **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy):** A curated list of awesome warez and piracy links.
+- **[kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood):** Curated list of falsehoods programmers believe in.
 - **[rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts):** Collection of awesome podcasts.
 - **[terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers):** The most cited deep learning papers.
 - **[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript):** A collection of awesome browser-side JavaScript libraries, resources and shiny things.
@@ -33,6 +35,7 @@
 - **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts):** 33 concepts every JavaScript developer should know.
 - **[mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript):** Module thinking, principles, design patterns and best practices.
 ### Librairies
+- **[github.com/denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - **[diegohaz/constate](https://github.com/diegohaz/constate):** Write local state using React Hooks and lift it up to React Context only when needed with minimum effort.
 - **[gmrchk/swup](https://github.com/gmrchk/swup):** Complete, flexible, easy to use page transition library.
@@ -42,23 +45,23 @@
 - **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet):** A web-based JavaScript（canvas） spreadsheet.
 - **[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch):** Next-Generation full text search library for Browser and Node.js
 - **[OptimalBits/redbird](https://github.com/OptimalBits/redbird):** A modern reverse proxy for node.
+- **[uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js):** TypeScript web server - 15x faster than Deno.
+## Assembler / WebAssembly
+### Librairies
+- **[ballercat/walt](https://github.com/ballercat/walt):** Walt is a JavaScript-like syntax for WebAssembly text format.
  
- ## Assembler / WebAssembly
- ### Librairies
- - **[ballercat/walt](https://github.com/ballercat/walt):** Walt is a JavaScript-like syntax for WebAssembly text format.
- 
- ## GoLang
- ### Documentation
- - **[golang-standards/project-layout](https://github.com/golang-standards/project-layout)**: Standard Go Project Layou.
- ### Librairies
- - **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
+## GoLang
+### Documentation
+- **[golang-standards/project-layout](https://github.com/golang-standards/project-layout)**: Standard Go Project Layou.
+### Librairies
+- **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
  - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
- 
- ## Docker / Kubernetes
- ### Librairies
- - **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
- - **[wagoodman/dive](https://github.com/wagoodman/dive):** A tool for exploring each layer in a docker image.
- - **[weaveworks/scope](https://github.com/weaveworks/scope):** Monitoring, visualisation & management for Docker & Kubernetes.
+
+## Docker / Kubernetes
+### Librairies
+- **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
+- **[wagoodman/dive](https://github.com/wagoodman/dive):** A tool for exploring each layer in a docker image.
+- **[weaveworks/scope](https://github.com/weaveworks/scope):** Monitoring, visualisation & management for Docker & Kubernetes.
  
 ## Tools
 ### Documentation
@@ -66,9 +69,11 @@
 ### Librairies
 - **[antonmedv/fx](https://github.com/antonmedv/fx):** Command-line tool and terminal JSON viewer.
 - **[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs):** Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
+- **[googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber):** Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - **[glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo):** The easiest way to demonstrate your code in action.
 - **[imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server):** An evolving how-to guide for securing a Linux server.
-- **[isacikgoz/gitin](https://github.com/isacikgoz/gitin):** commit/branch/workdir explorer for git
+- **[isacikgoz/gitin](https://github.com/isacikgoz/gitin):** commit/branch/workdir explorer for git.
+- **[https://github.com/jenkins-x/jx](https://github.com/jenkins-x/jx):** Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm.
 - **[joewalnes/websocketd](https://github.com/joewalnes/websocketd):** Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - **[klaussinani/qoa](https://github.com/klaussinani/qoa):** Minimal interactive command-line prompts.
 - **[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings):** The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
