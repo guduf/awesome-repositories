@@ -2,6 +2,7 @@
 
 ## Awesomes lists
 - **[emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome):** A curated list of awesome curated lists of many topics.
+- **[sindresorhus/awesome](https://github.com/sindresorhus/awesome):** Awesome lists about all kinds of interesting topics.
 ----
 - **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems):** A collection of awesome design systems.
 - **[avelino/awesome-go](https://github.com/avelino/awesome-go):** A curated list of awesome Go frameworks, libraries and software.
