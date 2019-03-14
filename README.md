@@ -35,7 +35,7 @@
 - **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts):** 33 concepts every JavaScript developer should know.
 - **[mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript):** Module thinking, principles, design patterns and best practices.
 ### Librairies
-- **[github.com/denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
+- **[denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - **[diegohaz/constate](https://github.com/diegohaz/constate):** Write local state using React Hooks and lift it up to React Context only when needed with minimum effort.
 - **[gmrchk/swup](https://github.com/gmrchk/swup):** Complete, flexible, easy to use page transition library.
@@ -45,7 +45,9 @@
 - **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet):** A web-based JavaScript（canvas） spreadsheet.
 - **[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch):** Next-Generation full text search library for Browser and Node.js
 - **[OptimalBits/redbird](https://github.com/OptimalBits/redbird):** A modern reverse proxy for node.
+- **[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest):** A collection of essential TypeScript types
 - **[uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js):** TypeScript web server - 15x faster than Deno.
+
 ## Assembler / WebAssembly
 ### Librairies
 - **[ballercat/walt](https://github.com/ballercat/walt):** Walt is a JavaScript-like syntax for WebAssembly text format.
