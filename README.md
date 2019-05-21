@@ -9,6 +9,7 @@
 - **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy):** A curated list of awesome warez and piracy links.
 - **[kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood):** Curated list of falsehoods programmers believe in.
 - **[rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts):** Collection of awesome podcasts.
+- **[ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning):** A curated list of awesome Deep Learning tutorials, projects and communities.
 - **[terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers):** The most cited deep learning papers.
 - **[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript):** A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - **[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode):** A curated list of delightful VS Code packages and resources.
@@ -32,22 +33,39 @@
 - **[30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code):** Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - **[airbnb/javascript](https://github.com/airbnb/javascript):** JavaScript Style Guide.
 - **[bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js):** A BPMN 2.0 rendering toolkit and web modeler.
+- **[captivationsoftware/react-sticky](https://github.com/captivationsoftware/react-sticky):** <Sticky /> component for awesome React apps.
+- **[chenglou/react-motion](https://github.com/chenglou/react-motion):** A spring that solves your animation problems.
 - **[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript):** Clean Code concepts adapted for TypeScript
 - **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts):** 33 concepts every JavaScript developer should know.
 - **[mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript):** Module thinking, principles, design patterns and best practices.
 ### Librairies
+- **[airbnb/enzyme](https://github.com/airbnb/enzyme):** JavaScript Testing utilities for React.
+- **[atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd):** Beautiful and accessible drag and drop for lists with React.
 - **[denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - **[diegohaz/constate](https://github.com/diegohaz/constate):** Write local state using React Hooks and lift it up to React Context only when needed with minimum effort.
+- **[Flipboard/react-canvas]:** High performance <canvas> rendering for React components.
+- **[franciscop/ola](https://github.com/franciscop/ola):** Smooth animation library for interpolating numbers.
 - **[gmrchk/swup](https://github.com/gmrchk/swup):** Complete, flexible, easy to use page transition library.
 - **[GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo):** Web rendering surface for Node applications.
 - **[gruns/ImmortalDB](https://github.com/gruns/ImmortalDB):** A relentless key-value store for the browser.
+- **[jaredpalmer/formik](https://github.com/jaredpalmer/formik):** Build forms in React, without the tears.
+- **[JedWatson/react-select](https://github.com/JedWatson/react-select):** The Select Component for React.js.
 - **[kentcdodds/react-testing-library](https://github.com/kentcdodds/react-testing-library):** Simple and complete React DOM testing utilities that encourage good testing practices.
 - **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet):** A web-based JavaScript（canvas） spreadsheet.
 - **[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch):** Next-Generation full text search library for Browser and Node.js
+- **[nfl/react-helmet](https://github.com/nfl/react-helmet):** A document head manager for React.
 - **[OptimalBits/redbird](https://github.com/OptimalBits/redbird):** A modern reverse proxy for node.
+- **[palantir/blueprint](https://github.com/palantir/blueprint):** A React-based UI toolkit for the web.
+- **[palmerhq/tsdx](https://github.com/palmerhq/tsdx):** Zero-config CLI for TypeScript package development.
+- **[react-dnd/react-dnd](https://github.com/react-dnd/react-dnd):** Drag and Drop for React.
+- **[segmentio/evergreen](https://github.com/segmentio/evergreen):** Evergreen React UI Framework by Segment.
 - **[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest):** A collection of essential TypeScript types
+- **[storybooks/storybook](https://github.com/storybooks/storybook):** UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- **[transloadit/uppy](https://github.com/transloadit/uppy):** The next open source file uploader for web browsers.
 - **[uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js):** TypeScript web server - 15x faster than Deno.
+- **[vadimdemedes/ink](https://github.com/vadimdemedes/ink):** React for interactive command-line apps
+- **[zeit/next.js](https://github.com/zeit/next.js/)** The React Framework.
 
 ## Assembler / WebAssembly
 ### Librairies
@@ -60,7 +78,7 @@
 - **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
  - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
 
-## Docker / Kubernetes
+## Cloud / Docker / Kubernetes
 ### Librairies
 - **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
 - **[wagoodman/dive](https://github.com/wagoodman/dive):** A tool for exploring each layer in a docker image.
@@ -80,6 +98,7 @@
 - **[joewalnes/websocketd](https://github.com/joewalnes/websocketd):** Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - **[klaussinani/qoa](https://github.com/klaussinani/qoa):** Minimal interactive command-line prompts.
 - **[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings):** The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- **[https://github.com/mlabouardy/komiser](https://github.com/mlabouardy/komiser):** Cloud Environment Inspector.
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb):** record and replay the web.
 - **[swc-project/swc](https://github.com/swc-project/swc):** Super-fast javascript to javascript compiler written in rust.
 
