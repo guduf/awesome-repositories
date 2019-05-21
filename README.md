@@ -44,7 +44,7 @@
 - **[denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - **[diegohaz/constate](https://github.com/diegohaz/constate):** Write local state using React Hooks and lift it up to React Context only when needed with minimum effort.
-- **[Flipboard/react-canvas]:** High performance <canvas> rendering for React components.
+- **[Flipboard/react-canvas](https://github.com/Flipboard/react-canvas):** High performance <canvas> rendering for React components.
 - **[franciscop/ola](https://github.com/franciscop/ola):** Smooth animation library for interpolating numbers.
 - **[gmrchk/swup](https://github.com/gmrchk/swup):** Complete, flexible, easy to use page transition library.
 - **[GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo):** Web rendering surface for Node applications.
@@ -127,5 +127,4 @@
 - **[toddmotto/public-apis](https://github.com/toddmotto/public-apis):** A collective list of free APIs for use in software and web development.
 - **[trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference):** My notes about Nginx...
 - **[usefathom/fathom](https://github.com/usefathom/fathom):** Simple, trustworthy website analytics. Built with Golang & Preact.
-- **[vadimdemedes/ink/tree/next](https://github.com/vadimdemedes/ink/tree/next):** React for interactive command-line apps
 - **[ziishaned/dumper.js](https://github.com/ziishaned/dumper.js):** A better and pretty variable inspector for your Node.js applications
