@@ -114,6 +114,7 @@
 - **[cjbassi/gotop](https://github.com/cjbassi/gotop):** Another terminal based graphical activity monitor, inspired by gtop and vtop, this time written in Go!
 - **[copy/v86](https://github.com/copy/v86):** x86 virtualization in JavaScript, running in your browser and NodeJS.
 - **[danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x):** Build your own (insert technology here).
+- **[Eugeny/terminus](https://github.com/Eugeny/terminus):** A terminal for a more modern age
 - **[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95):** Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker):** Secure and fast microVMs for serverless computing.
 - **[google/jsonnet](https://github.com/google/jsonnet):** Jsonnet - The data templating language
@@ -121,6 +122,7 @@
 - **[idea4good/GuiLite](https://github.com/idea4good/GuiLite):** The smallest UI framework for all platform -- 5K lines code
 - **[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler):**  Possibly the smallest compiler ever.
 - **[notable/notable](https://github.com/notable/notable):** The markdown-based note-taking app that doesn't suck.
+- **[Peltoche/lsd](https://github.com/Peltoche/lsd):** The next gen ls command.
 - **[pikapkg/pack](https://github.com/pikapkg/pack):** npm package building, reimagined.
 - **[solid/solid](https://github.com/solid/solid):** Solid - Re-decentralizing the web (project directory).
 - **[transloadit/uppy](https://github.com/transloadit/uppy):** The next open source file uploader for web browsers.
