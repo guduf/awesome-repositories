@@ -104,6 +104,7 @@
 
 ## Design
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
+- **[https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts):** Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
 
 ## Guides
 - **[charlax/professional-programming](https://github.com/charlax/professional-programming):** A collection of full-stack resources for programmers.
@@ -125,6 +126,7 @@
 - **[Peltoche/lsd](https://github.com/Peltoche/lsd):** The next gen ls command.
 - **[pikapkg/pack](https://github.com/pikapkg/pack):** npm package building, reimagined.
 - **[solid/solid](https://github.com/solid/solid):** Solid - Re-decentralizing the web (project directory).
+- **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python):** All Algorithms implemented in Python.
 - **[transloadit/uppy](https://github.com/transloadit/uppy):** The next open source file uploader for web browsers.
 - **[toddmotto/public-apis](https://github.com/toddmotto/public-apis):** A collective list of free APIs for use in software and web development.
 - **[trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference):** My notes about Nginx...
