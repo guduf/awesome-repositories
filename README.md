@@ -6,6 +6,7 @@
 ----
 - **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems):** A collection of awesome design systems.
 - **[avelino/awesome-go](https://github.com/avelino/awesome-go):** A curated list of awesome Go frameworks, libraries and software.
+- **[Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome):** An awesome & curated list of best applications and tools for Windows.
 - **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy):** A curated list of awesome warez and piracy links.
 - **[kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood):** Curated list of falsehoods programmers believe in.
 - **[rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts):** Collection of awesome podcasts.
@@ -121,6 +122,7 @@
 - **[google/jsonnet](https://github.com/google/jsonnet):** Jsonnet - The data templating language
 - **[iina/iina](https://github.com/iina/iina):** The modern video player for macOS.
 - **[idea4good/GuiLite](https://github.com/idea4good/GuiLite):** The smallest UI framework for all platform -- 5K lines code
+- **[jakubroztocil/httpie](https://github.com/jakubroztocil/httpie):** Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - **[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler):**  Possibly the smallest compiler ever.
 - **[notable/notable](https://github.com/notable/notable):** The markdown-based note-taking app that doesn't suck.
 - **[Peltoche/lsd](https://github.com/Peltoche/lsd):** The next gen ls command.
