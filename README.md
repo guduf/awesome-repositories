@@ -59,6 +59,7 @@
 - **[OptimalBits/redbird](https://github.com/OptimalBits/redbird):** A modern reverse proxy for node.
 - **[palantir/blueprint](https://github.com/palantir/blueprint):** A React-based UI toolkit for the web.
 - **[palmerhq/tsdx](https://github.com/palmerhq/tsdx):** Zero-config CLI for TypeScript package development.
+- **[playcanvas/engine](https://github.com/playcanvas/engine):** Fast and lightweight WebGL game engine.
 - **[react-dnd/react-dnd](https://github.com/react-dnd/react-dnd):** Drag and Drop for React.
 - **[segmentio/evergreen](https://github.com/segmentio/evergreen):** Evergreen React UI Framework by Segment.
 - **[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest):** A collection of essential TypeScript types
