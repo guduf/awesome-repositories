@@ -7,7 +7,9 @@
 - **[alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems):** A collection of awesome design systems.
 - **[avelino/awesome-go](https://github.com/avelino/awesome-go):** A curated list of awesome Go frameworks, libraries and software.
 - **[Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome):** An awesome & curated list of best applications and tools for Windows.
+- **[binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability):** The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems.
 - **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy):** A curated list of awesome warez and piracy links.
+- **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):** Collect premium software in various categories.
 - **[kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood):** Curated list of falsehoods programmers believe in.
 - **[rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts):** Collection of awesome podcasts.
 - **[ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning):** A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -45,6 +47,7 @@
 - **[denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - **[diegohaz/constate](https://github.com/diegohaz/constate):** Write local state using React Hooks and lift it up to React Context only when needed with minimum effort.
+- **[Stylish, intuitive and user-friendly prompts.enquirer/enquirer](https://github.com/enquirer/enquirer)
 - **[Flipboard/react-canvas](https://github.com/Flipboard/react-canvas):** High performance <canvas> rendering for React components.
 - **[franciscop/ola](https://github.com/franciscop/ola):** Smooth animation library for interpolating numbers.
 - **[gmrchk/swup](https://github.com/gmrchk/swup):** Complete, flexible, easy to use page transition library.
@@ -62,6 +65,7 @@
 - **[playcanvas/engine](https://github.com/playcanvas/engine):** Fast and lightweight WebGL game engine.
 - **[react-dnd/react-dnd](https://github.com/react-dnd/react-dnd):** Drag and Drop for React.
 - **[segmentio/evergreen](https://github.com/segmentio/evergreen):** Evergreen React UI Framework by Segment.
+- **[sghall/react-vertex](https://github.com/sghall/react-vertex): ** Hooks-based WebGL library for React
 - **[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest):** A collection of essential TypeScript types
 - **[storybooks/storybook](https://github.com/storybooks/storybook):** UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - **[transloadit/uppy](https://github.com/transloadit/uppy):** The next open source file uploader for web browsers.
@@ -105,8 +109,9 @@
 - **[swc-project/swc](https://github.com/swc-project/swc):** Super-fast javascript to javascript compiler written in rust.
 
 ## Design
+- **[Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon):** Open source neutral style icon system.
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
-- **[https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts):** Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
+- **[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts):** Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
 
 ## Guides
 - **[charlax/professional-programming](https://github.com/charlax/professional-programming):** A collection of full-stack resources for programmers.
