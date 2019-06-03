@@ -125,11 +125,13 @@
 - **[Eugeny/terminus](https://github.com/Eugeny/terminus):** A terminal for a more modern age
 - **[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95):** Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker):** Secure and fast microVMs for serverless computing.
+- **[github/semantic](https://github.com/github/semantic):** Parsing, analyzing, and comparing source code across many languages.
 - **[google/jsonnet](https://github.com/google/jsonnet):** Jsonnet - The data templating language
 - **[iina/iina](https://github.com/iina/iina):** The modern video player for macOS.
 - **[idea4good/GuiLite](https://github.com/idea4good/GuiLite):** The smallest UI framework for all platform -- 5K lines code
 - **[jakubroztocil/httpie](https://github.com/jakubroztocil/httpie):** Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - **[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler):**  Possibly the smallest compiler ever.
+- **[koalaman/shellcheck](https://github.com/koalaman/shellcheck):** ShellCheck, a static analysis tool for shell scripts
 - **[notable/notable](https://github.com/notable/notable):** The markdown-based note-taking app that doesn't suck.
 - **[Peltoche/lsd](https://github.com/Peltoche/lsd):** The next gen ls command.
 - **[pikapkg/pack](https://github.com/pikapkg/pack):** npm package building, reimagined.
