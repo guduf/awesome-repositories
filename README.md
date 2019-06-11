@@ -10,6 +10,7 @@
 - **[binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability):** The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems.
 - **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy):** A curated list of awesome warez and piracy links.
 - **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):** Collect premium software in various categories.
+- **[luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy)** Curated list of technical case studies on WebGL and creative development
 - **[kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood):** Curated list of falsehoods programmers believe in.
 - **[rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts):** Collection of awesome podcasts.
 - **[ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning):** A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -63,6 +64,7 @@
 - **[palantir/blueprint](https://github.com/palantir/blueprint):** A React-based UI toolkit for the web.
 - **[palmerhq/tsdx](https://github.com/palmerhq/tsdx):** Zero-config CLI for TypeScript package development.
 - **[playcanvas/engine](https://github.com/playcanvas/engine):** Fast and lightweight WebGL game engine.
+- **[pubkey/rxdb](https://github.com/pubkey/rxdb):** A realtime Database for the Web.
 - **[react-dnd/react-dnd](https://github.com/react-dnd/react-dnd):** Drag and Drop for React.
 - **[segmentio/evergreen](https://github.com/segmentio/evergreen):** Evergreen React UI Framework by Segment.
 - **[sghall/react-vertex](https://github.com/sghall/react-vertex): ** Hooks-based WebGL library for React
@@ -122,6 +124,8 @@
 - **[cjbassi/gotop](https://github.com/cjbassi/gotop):** Another terminal based graphical activity monitor, inspired by gtop and vtop, this time written in Go!
 - **[copy/v86](https://github.com/copy/v86):** x86 virtualization in JavaScript, running in your browser and NodeJS.
 - **[danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x):** Build your own (insert technology here).
+- **[dessant/buster](https://github.com/dessant/buster):** Captcha solver extension for humans.
+- **[ylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible):** A collection of pure bash alternatives to external processes.
 - **[Eugeny/terminus](https://github.com/Eugeny/terminus):** A terminal for a more modern age
 - **[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95):** Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker):** Secure and fast microVMs for serverless computing.
