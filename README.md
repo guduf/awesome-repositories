@@ -135,6 +135,7 @@
 - **[idea4good/GuiLite](https://github.com/idea4good/GuiLite):** The smallest UI framework for all platform -- 5K lines code
 - **[jakubroztocil/httpie](https://github.com/jakubroztocil/httpie):** Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - **[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler):**  Possibly the smallest compiler ever.
+- **[json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker):** JSON-Schema + fake data generators
 - **[koalaman/shellcheck](https://github.com/koalaman/shellcheck):** ShellCheck, a static analysis tool for shell scripts
 - **[notable/notable](https://github.com/notable/notable):** The markdown-based note-taking app that doesn't suck.
 - **[Peltoche/lsd](https://github.com/Peltoche/lsd):** The next gen ls command.
