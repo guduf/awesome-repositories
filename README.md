@@ -19,59 +19,50 @@
 - **[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript):** A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 - **[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode):** A curated list of delightful VS Code packages and resources.
 
+
 ## Database
-### Librairies
 - **[EventStore/EventStore](https://github.com/EventStore/EventStore):** The open-source, functional database with Complex Event Processing in JavaScript.
 
 ## GraphQL
-### Librairies
 - **[hasura/graphql-engine](https://github.com/hasura/graphql-engine):** Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - **[glennreyes/graphpack](https://github.com/glennreyes/graphpack):** A minimalistic zero-config GraphQL server.
 
+## React
+- **[airbnb/enzyme](https://github.com/airbnb/enzyme):** JavaScript Testing utilities for React.
+- **[atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd):** Beautiful and accessible drag and drop for lists with React.
+- **[bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)**: React components for efficiently rendering large lists and tabular data.
+- **[civiccc/react-waypoint](https://github.com/civiccc/react-waypoint):** A React component to execute a function whenever you scroll to an element.
+- **[diegohaz/constate](https://github.com/diegohaz/constate):** Write local state using React Hooks and lift it up to React Context only when needed with minimum effort.
+- **[Flipboard/react-canvas](https://github.com/Flipboard/react-canvas):** High performance <canvas> rendering for React components.
+- **[greena13/react-hotkeys](https://github.com/greena13/react-hotkeys)**: Declarative hotkey and focus area management for React.
+- **[JedWatson/react-select](https://github.com/JedWatson/react-select):** The Select Component for React.js.
+- **[kentcdodds/react-testing-library](https://github.com/kentcdodds/react-testing-library):** Simple and complete React DOM testing utilities that encourage good testing practices.
+- **[kentcdodds/stop-runaway-react-effects](https://github.com/kentcdodds/stop-runaway-react-effects):** Catches situations when a react use(Layout)Effect runs repeatedly in rapid succession.
+- **[mzabriskie/react-draggable](https://github.com/mzabriskie/react-draggable):** React draggable component
+- **[nfl/react-helmet](https://github.com/nfl/react-helmet):** A document head manager for React.
+- **[sghall/react-vertex](https://github.com/sghall/react-vertex):** Hooks-based WebGL library for React
+- **[vadimdemedes/ink](https://github.com/vadimdemedes/ink):** React for interactive command-line apps
+- **[zeit/next.js](https://github.com/zeit/next.js/)** The React Framework.
+
 ## HTML / CSS / SVG
-### Librairies
 - **[frappe/charts](https://github.com/frappe/charts):** Simple, responsive, modern SVG Charts with zero dependencies
 - **[jolaleye/cssfx](https://github.com/jolaleye/cssfx):** Beautifully simple click-to-copy CSS effects.
 - **[mozdevs/cssremedy](https://github.com/mozdevs/cssremedy):** Start your project with a remedy for the technical debt of CSS.
 
 ## Typescript / Javascript
-### Documentation
-- **[30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code):** Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
-- **[airbnb/javascript](https://github.com/airbnb/javascript):** JavaScript Style Guide.
-- **[bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js):** A BPMN 2.0 rendering toolkit and web modeler.
-- **[captivationsoftware/react-sticky](https://github.com/captivationsoftware/react-sticky):** <Sticky /> component for awesome React apps.
-- **[chenglou/react-motion](https://github.com/chenglou/react-motion):** A spring that solves your animation problems.
-- **[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript):** Clean Code concepts adapted for TypeScript
-- **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts):** 33 concepts every JavaScript developer should know.
-- **[lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions):** A long list of (advanced) JavaScript questions, and their explanations
-- **[mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript):** Module thinking, principles, design patterns and best practices.
-### Librairies
-- **[airbnb/enzyme](https://github.com/airbnb/enzyme):** JavaScript Testing utilities for React.
 - **[akfish/node-vibrant](https://github.com/akfish/node-vibrant):** Extract prominent colors from an image.
-- **[atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd):** Beautiful and accessible drag and drop for lists with React.
-- **[bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)**: React components for efficiently rendering large lists and tabular data.
-- **[civiccc/react-waypoint](https://github.com/civiccc/react-waypoint):** A React component to execute a function whenever you scroll to an element.
 - **[denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
-- **[diegohaz/constate](https://github.com/diegohaz/constate):** Write local state using React Hooks and lift it up to React Context only when needed with minimum effort.
 - **[ehmicky/log-process-errors](https://github.com/ehmicky/log-process-errors)** Show some love to Node.js process errors.
 - **[enquirer/enquirer](https://github.com/enquirer/enquirer):** Stylish, intuitive and user-friendly prompts.
-- **[Flipboard/react-canvas](https://github.com/Flipboard/react-canvas):** High performance <canvas> rendering for React components.
 - **[franciscop/ola](https://github.com/franciscop/ola):** Smooth animation library for interpolating numbers.
 - **[gmrchk/swup](https://github.com/gmrchk/swup):** Complete, flexible, easy to use page transition library.
 - **[GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo):** Web rendering surface for Node applications.
 - **[GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink):** Comlink makes WebWorkers enjoyable.
-- **[greena13/react-hotkeys](https://github.com/greena13/react-hotkeys)**: Declarative hotkey and focus area management for React.
 - **[gruns/ImmortalDB](https://github.com/gruns/ImmortalDB):** A relentless key-value store for the browser.
-- **[jaredpalmer/formik](https://github.com/jaredpalmer/formik):** Build forms in React, without the tears.
-- **[JedWatson/react-select](https://github.com/JedWatson/react-select):** The Select Component for React.js.
-- **[kentcdodds/react-testing-library](https://github.com/kentcdodds/react-testing-library):** Simple and complete React DOM testing utilities that encourage good testing practices.
-- **[kentcdodds/stop-runaway-react-effects](https://github.com/kentcdodds/stop-runaway-react-effects):** Catches situations when a react use(Layout)Effect runs repeatedly in rapid succession.
-- **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet):** A web-based JavaScript（canvas） spreadsheet.
-- **[mzabriskie/react-draggable](https://github.com/mzabriskie/react-draggable):** React draggable component
+- **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet):** A web-based JavaScript（canvas spreadsheet.
 - **[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch):** Next-Generation full text search library for Browser and Node.js
 - **[nodemailer/wildduck](https://github.com/nodemailer/wildduck):** Opinionated email server.
-- **[nfl/react-helmet](https://github.com/nfl/react-helmet):** A document head manager for React.
 - **[OptimalBits/redbird](https://github.com/OptimalBits/redbird):** A modern reverse proxy for node.
 - **[palantir/blueprint](https://github.com/palantir/blueprint):** A React-based UI toolkit for the web.
 - **[palmerhq/tsdx](https://github.com/palmerhq/tsdx):** Zero-config CLI for TypeScript package development.
@@ -82,38 +73,25 @@
 - **[react-spring/react-spring](https://github.com/react-spring/react-spring)** A spring physics based React animation library
 - **[segmentio/evergreen](https://github.com/segmentio/evergreen):** Evergreen React UI Framework by Segment.
 - **[sanniassin/react-input-mask](https://github.com/sanniassin/react-input-mask):** Input masking component for React. Made with attention to UX.
-- **[sghall/react-vertex](https://github.com/sghall/react-vertex): ** Hooks-based WebGL library for React
 - **[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest):** A collection of essential TypeScript types
 - **[storybooks/storybook](https://github.com/storybooks/storybook):** UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 - **[transloadit/uppy](https://github.com/transloadit/uppy):** The next open source file uploader for web browsers.
 - **[uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js):** TypeScript web server - 15x faster than Deno.
-- **[vadimdemedes/ink](https://github.com/vadimdemedes/ink):** React for interactive command-line apps
-- **[zeit/next.js](https://github.com/zeit/next.js/)** The React Framework.
 
 ## Assembler / WebAssembly
-### Librairies
 - **[ballercat/walt](https://github.com/ballercat/walt):** Walt is a JavaScript-like syntax for WebAssembly text format.
  
 ## GoLang
-### Documentation
-- **[golang-standards/project-layout](https://github.com/golang-standards/project-layout)**: Standard Go Project Layou.
-### Librairies
 - **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
  - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
 
 ## Cloud / Docker / Kubernetes
-### Documentation
-- **[hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories):** Compilation of public failure/horror stories related to Kubernetes
-### Librairies
 - **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
 - **[GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless):** Language focused docker images, minus the operating system.
 - **[wagoodman/dive](https://github.com/wagoodman/dive):** A tool for exploring each layer in a docker image.
 - **[weaveworks/scope](https://github.com/weaveworks/scope):** Monitoring, visualisation & management for Docker & Kubernetes.
  
 ## Tools
-### Documentation
-- **[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules):** Flight rules for git.
-### Librairies
 - **[antonmedv/fx](https://github.com/antonmedv/fx):** Command-line tool and terminal JSON viewer.
 - **[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs):** Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - **[googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber):** Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
@@ -132,11 +110,6 @@
 - **[Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon):** Open source neutral style icon system.
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
 - **[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts):** Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
-
-## Guides
-- **[charlax/professional-programming](https://github.com/charlax/professional-programming):** A collection of full-stack resources for programmers.
-- **[https://github.com/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):** Master the command line, in one page.
-- **[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):** A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 
 ## Misc
 - **[Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator):** Fantasy Map Generator and Editor based on Voronoi diagram.
@@ -171,3 +144,26 @@
 - **[usefathom/fathom](https://github.com/usefathom/fathom):** Simple, trustworthy website analytics. Built with Golang & Preact.
 - **[beizhedenglong/weird-fonts](https://github.com/beizhedenglong/weird-fonts):** 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - **[ziishaned/dumper.js](https://github.com/ziishaned/dumper.js):** A better and pretty variable inspector for your Node.js applications
+
+
+## Documentation / Guides / Exercises / Boilerplates
+### Programming
+- **[charlax/professional-programming](https://github.com/charlax/professional-programming):** A collection of full-stack resources for programmers.
+- **[https://github.com/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):** Master the command line, in one page.
+- **[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):** A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
+### Typescript / Javascript
+- **[30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code):** Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- **[airbnb/javascript](https://github.com/airbnb/javascript):** JavaScript Style Guide.
+- **[bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js):** A BPMN 2.0 rendering toolkit and web modeler.
+- **[captivationsoftware/react-sticky](https://github.com/captivationsoftware/react-sticky):** <Sticky /> component for awesome React apps.
+- **[chenglou/react-motion](https://github.com/chenglou/react-motion):** A spring that solves your animation problems.
+- **[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript):** Clean Code concepts adapted for TypeScript
+- **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts):** 33 concepts every JavaScript developer should know.
+- **[lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions):** A long list of (advanced) JavaScript questions, and their explanations
+- **[mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript):** Module thinking, principles, design patterns and best practices.
+### GoLang
+- **[golang-standards/project-layout](https://github.com/golang-standards/project-layout)**: Standard Go Project Layout.
+### Cloud / Docker / Kubernetes
+- **[hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories):** Compilation of public failure/horror stories related to Kubernetes
+### Tools
+- **[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules):** Flight rules for git.
