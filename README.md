@@ -34,6 +34,7 @@
 - **[civiccc/react-waypoint](https://github.com/civiccc/react-waypoint):** A React component to execute a function whenever you scroll to an element.
 - **[diegohaz/constate](https://github.com/diegohaz/constate):** Write local state using React Hooks and lift it up to React Context only when needed with minimum effort.
 - **[Flipboard/react-canvas](https://github.com/Flipboard/react-canvas):** High performance <canvas> rendering for React components.
+- **[framer/motion](https://github.com/framer/motion):** Open source, production-ready animation and gesture library for React.
 - **[greena13/react-hotkeys](https://github.com/greena13/react-hotkeys)**: Declarative hotkey and focus area management for React.
 - **[JedWatson/react-select](https://github.com/JedWatson/react-select):** The Select Component for React.js.
 - **[kentcdodds/react-testing-library](https://github.com/kentcdodds/react-testing-library):** Simple and complete React DOM testing utilities that encourage good testing practices.
@@ -83,11 +84,14 @@
  
 ## GoLang
 - **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
- - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
+- **[anthonynsimon/bild](https://github.com/anthonynsimon/bild):** A collection of parallel image processing algorithms in pure Go.
+- **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
 
 ## Cloud / Docker / Kubernetes
 - **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
 - **[GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless):** Language focused docker images, minus the operating system.
+- **[jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)** The lazier way to manage everything docker.
+- **[mlabouardy/komiser](https://github.com/mlabouardy/komiser):** Cloud Environment Inspector
 - **[wagoodman/dive](https://github.com/wagoodman/dive):** A tool for exploring each layer in a docker image.
 - **[weaveworks/scope](https://github.com/weaveworks/scope):** Monitoring, visualisation & management for Docker & Kubernetes.
  
@@ -98,12 +102,12 @@
 - **[glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo):** The easiest way to demonstrate your code in action.
 - **[imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server):** An evolving how-to guide for securing a Linux server.
 - **[isacikgoz/gitin](https://github.com/isacikgoz/gitin):** commit/branch/workdir explorer for git.
-- **[https://github.com/jenkins-x/jx](https://github.com/jenkins-x/jx):** Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm.
+- **[jenkins-x/jx](https://github.com/jenkins-x/jx):** Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm.
 - **[joewalnes/websocketd](https://github.com/joewalnes/websocketd):** Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - **[klaussinani/qoa](https://github.com/klaussinani/qoa):** Minimal interactive command-line prompts.
 - **[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings):** The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- **[https://github.com/mlabouardy/komiser](https://github.com/mlabouardy/komiser):** Cloud Environment Inspector.
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb):** record and replay the web.
+- **[sqshq/sampler](https://github.com/sqshq/sampler):** A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - **[swc-project/swc](https://github.com/swc-project/swc):** Super-fast javascript to javascript compiler written in rust.
 
 ## Design
@@ -113,16 +117,17 @@
 
 ## Misc
 - **[Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator):** Fantasy Map Generator and Editor based on Voronoi diagram.
+- **[beizhedenglong/weird-fonts](https://github.com/beizhedenglong/weird-fonts):** 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - **[cjbassi/gotop](https://github.com/cjbassi/gotop):** Another terminal based graphical activity monitor, inspired by gtop and vtop, this time written in Go!
 - **[copy/v86](https://github.com/copy/v86):** x86 virtualization in JavaScript, running in your browser and NodeJS.
 - **[danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x):** Build your own (insert technology here).
 - **[dessant/buster](https://github.com/dessant/buster):** Captcha solver extension for humans.
-- **[ylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible):** A collection of pure bash alternatives to external processes.
 - **[Eugeny/terminus](https://github.com/Eugeny/terminus):** A terminal for a more modern age
 - **[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95):** Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker):** Secure and fast microVMs for serverless computing.
 - **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)**: Display and control your Android device
 - **[github/semantic](https://github.com/github/semantic):** Parsing, analyzing, and comparing source code across many languages.
+- **[GokuMohandas/practicalAI](https://github.com/GokuMohandas/practicalAI):** A practical approach to machine learning.
 - **[google/jsonnet](https://github.com/google/jsonnet):** Jsonnet - The data templating language
 - **[gothinkster/realworld](https://github.com/gothinkster/realworld):** "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - **[iina/iina](https://github.com/iina/iina):** The modern video player for macOS.
@@ -130,6 +135,7 @@
 - **[jakubroztocil/httpie](https://github.com/jakubroztocil/httpie):** Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 - **[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler):**  Possibly the smallest compiler ever.
 - **[jarun/nnn](https://github.com/jarun/nnn):** Lean, fast, full-featured file manager with batteries.
+- **[jedisct1/dsvpn](https://github.com/jedisct1/dsvpn):** A Dead Simple VPN.
 - **[json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker):** JSON-Schema + fake data generators
 - **[koalaman/shellcheck](https://github.com/koalaman/shellcheck):** ShellCheck, a static analysis tool for shell scripts
 - **[microsoft/react-native-windows](https://github.com/microsoft/react-native-windows):** A framework for building native Windows apps with React.
@@ -142,14 +148,16 @@
 - **[toddmotto/public-apis](https://github.com/toddmotto/public-apis):** A collective list of free APIs for use in software and web development.
 - **[trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference):** My notes about Nginx...
 - **[usefathom/fathom](https://github.com/usefathom/fathom):** Simple, trustworthy website analytics. Built with Golang & Preact.
-- **[beizhedenglong/weird-fonts](https://github.com/beizhedenglong/weird-fonts):** 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
+- **[yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu):** Nintendo Switch Emulator.
 - **[ziishaned/dumper.js](https://github.com/ziishaned/dumper.js):** A better and pretty variable inspector for your Node.js applications
 
 
 ## Documentation / Guides / Exercises / Boilerplates
 ### Programming
 - **[charlax/professional-programming](https://github.com/charlax/professional-programming):** A collection of full-stack resources for programmers.
-- **[https://github.com/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):** Master the command line, in one page.
+- **[dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students):** Curated list of resources for college students.
+- **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books):** Freely available programming books.
+- **[jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):** Master the command line, in one page.
 - **[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):** A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 ### Typescript / Javascript
 - **[30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code):** Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
@@ -166,4 +174,6 @@
 ### Cloud / Docker / Kubernetes
 - **[hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories):** Compilation of public failure/horror stories related to Kubernetes
 ### Tools
+- **[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible):** A collection of pure bash alternatives to external processes.
 - **[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules):** Flight rules for git.
+- **[ziishaned/learn-regex](https://github.com/ziishaned/learn-regex):** Learn regex the easy way
