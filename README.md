@@ -165,6 +165,7 @@
 - **[bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js):** A BPMN 2.0 rendering toolkit and web modeler.
 - **[captivationsoftware/react-sticky](https://github.com/captivationsoftware/react-sticky):** <Sticky /> component for awesome React apps.
 - **[chenglou/react-motion](https://github.com/chenglou/react-motion):** A spring that solves your animation problems.
+- **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS):** A book series on JavaScript.
 - **[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript):** Clean Code concepts adapted for TypeScript
 - **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts):** 33 concepts every JavaScript developer should know.
 - **[lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions):** A long list of (advanced) JavaScript questions, and their explanations
