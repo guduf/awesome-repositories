@@ -11,7 +11,8 @@
 - **[dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript):** A collection of awesome TypeScript resources for client-side and server-side development.
 - **[Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy):** A curated list of awesome warez and piracy links.
 - **[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):** Collect premium software in various categories.
-- **[luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy)** Curated list of technical case studies on WebGL and creative development
+- **[Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted):** This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+- **[luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy):** Curated list of technical case studies on WebGL and creative development
 - **[kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood):** Curated list of falsehoods programmers believe in.
 - **[rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts):** Collection of awesome podcasts.
 - **[ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning):** A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -52,6 +53,7 @@
 
 ## Typescript / Javascript
 - **[akfish/node-vibrant](https://github.com/akfish/node-vibrant):** Extract prominent colors from an image.
+- **[daybrush/moveable](https://github.com/daybrush/moveable):** Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable!
 - **[denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - **[ehmicky/log-process-errors](https://github.com/ehmicky/log-process-errors)** Show some love to Node.js process errors.
@@ -86,12 +88,14 @@
 - **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
 - **[anthonynsimon/bild](https://github.com/anthonynsimon/bild):** A collection of parallel image processing algorithms in pure Go.
 - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
+- **[sqshq/sampler](https://github.com/sqshq/sampler):** A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 
 ## Cloud / Docker / Kubernetes
 - **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
 - **[GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless):** Language focused docker images, minus the operating system.
 - **[jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)** The lazier way to manage everything docker.
 - **[mlabouardy/komiser](https://github.com/mlabouardy/komiser):** Cloud Environment Inspector
+- **[vmware/octant](https://github.com/vmware/octant):** A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - **[wagoodman/dive](https://github.com/wagoodman/dive):** A tool for exploring each layer in a docker image.
 - **[weaveworks/scope](https://github.com/weaveworks/scope):** Monitoring, visualisation & management for Docker & Kubernetes.
  
@@ -111,6 +115,7 @@
 - **[swc-project/swc](https://github.com/swc-project/swc):** Super-fast javascript to javascript compiler written in rust.
 
 ## Design
+- **[DMarby/picsum-photos](https://github.com/DMarby/picsum-photos):** Lorem Ipsum... but for photos.
 - **[Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon):** Open source neutral style icon system.
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
 - **[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts):** Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
@@ -148,6 +153,7 @@
 - **[toddmotto/public-apis](https://github.com/toddmotto/public-apis):** A collective list of free APIs for use in software and web development.
 - **[trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference):** My notes about Nginx...
 - **[usefathom/fathom](https://github.com/usefathom/fathom):** Simple, trustworthy website analytics. Built with Golang & Preact.
+- **[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl):** Command-line program to download videos from YouTube.com and other video sites.
 - **[yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu):** Nintendo Switch Emulator.
 - **[ziishaned/dumper.js](https://github.com/ziishaned/dumper.js):** A better and pretty variable inspector for your Node.js applications
 
@@ -166,6 +172,7 @@
 - **[captivationsoftware/react-sticky](https://github.com/captivationsoftware/react-sticky):** <Sticky /> component for awesome React apps.
 - **[chenglou/react-motion](https://github.com/chenglou/react-motion):** A spring that solves your animation problems.
 - **[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS):** A book series on JavaScript.
+- **[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices):** Comprehensive and exhaustive JavaScript & Node.js testing best practices
 - **[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript):** Clean Code concepts adapted for TypeScript
 - **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts):** 33 concepts every JavaScript developer should know.
 - **[lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions):** A long list of (advanced) JavaScript questions, and their explanations
