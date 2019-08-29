@@ -142,6 +142,7 @@
 - **[jarun/nnn](https://github.com/jarun/nnn):** Lean, fast, full-featured file manager with batteries.
 - **[jedisct1/dsvpn](https://github.com/jedisct1/dsvpn):** A Dead Simple VPN.
 - **[json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker):** JSON-Schema + fake data generators
+- **[khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli):** Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - **[koalaman/shellcheck](https://github.com/koalaman/shellcheck):** ShellCheck, a static analysis tool for shell scripts
 - **[microsoft/react-native-windows](https://github.com/microsoft/react-native-windows):** A framework for building native Windows apps with React.
 - **[notable/notable](https://github.com/notable/notable):** The markdown-based note-taking app that doesn't suck.
