@@ -131,6 +131,7 @@
 - **[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95):** Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker):** Secure and fast microVMs for serverless computing.
 - **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)**: Display and control your Android device
+- **[github/gitignore](https://github.com/github/gitignore):** A collection of useful .gitignore templates
 - **[github/semantic](https://github.com/github/semantic):** Parsing, analyzing, and comparing source code across many languages.
 - **[GokuMohandas/practicalAI](https://github.com/GokuMohandas/practicalAI):** A practical approach to machine learning.
 - **[google/jsonnet](https://github.com/google/jsonnet):** Jsonnet - The data templating language
