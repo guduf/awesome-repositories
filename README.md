@@ -108,9 +108,11 @@
 - **[isacikgoz/gitin](https://github.com/isacikgoz/gitin):** commit/branch/workdir explorer for git.
 - **[jenkins-x/jx](https://github.com/jenkins-x/jx):** Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm.
 - **[joewalnes/websocketd](https://github.com/joewalnes/websocketd):** Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
+- **[keybase/client](https://github.com/keybase/client):** Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - **[klaussinani/qoa](https://github.com/klaussinani/qoa):** Minimal interactive command-line prompts.
 - **[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings):** The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb):** record and replay the web.
+- **[rclone/rclone](https://github.com/rclone/rclone):** rsync for cloud storage
 - **[sqshq/sampler](https://github.com/sqshq/sampler):** A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - **[swc-project/swc](https://github.com/swc-project/swc):** Super-fast javascript to javascript compiler written in rust.
 
@@ -129,6 +131,7 @@
 - **[dessant/buster](https://github.com/dessant/buster):** Captcha solver extension for humans.
 - **[Eugeny/terminus](https://github.com/Eugeny/terminus):** A terminal for a more modern age
 - **[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95):** Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- **[tonsky/FiraCode](https://github.com/tonsky/FiraCode):** Monospaced font with programming ligatures.
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker):** Secure and fast microVMs for serverless computing.
 - **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)**: Display and control your Android device
 - **[github/gitignore](https://github.com/github/gitignore):** A collection of useful .gitignore templates
@@ -185,5 +188,6 @@
 - **[hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories):** Compilation of public failure/horror stories related to Kubernetes
 ### Tools
 - **[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible):** A collection of pure bash alternatives to external processes.
+- **[Jezzamonn/fourier](https://github.com/Jezzamonn/fourier):** An Interactive Introduction to Fourier Transforms
 - **[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules):** Flight rules for git.
 - **[ziishaned/learn-regex](https://github.com/ziishaned/learn-regex):** Learn regex the easy way
