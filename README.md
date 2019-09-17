@@ -152,10 +152,10 @@
 - **[notable/notable](https://github.com/notable/notable):** The markdown-based note-taking app that doesn't suck.
 - **[Peltoche/lsd](https://github.com/Peltoche/lsd):** The next gen ls command.
 - **[pikapkg/pack](https://github.com/pikapkg/pack):** npm package building, reimagined.
+- **[public-apis/public-apis](https://github.com/public-apis/public-apis):** A collective list of free APIs for use in software and web development.
 - **[solid/solid](https://github.com/solid/solid):** Solid - Re-decentralizing the web (project directory).
 - **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python):** All Algorithms implemented in Python.
 - **[transloadit/uppy](https://github.com/transloadit/uppy):** The next open source file uploader for web browsers.
-- **[toddmotto/public-apis](https://github.com/toddmotto/public-apis):** A collective list of free APIs for use in software and web development.
 - **[trimstray/nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference):** My notes about Nginx...
 - **[usefathom/fathom](https://github.com/usefathom/fathom):** Simple, trustworthy website analytics. Built with Golang & Preact.
 - **[ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl):** Command-line program to download videos from YouTube.com and other video sites.
