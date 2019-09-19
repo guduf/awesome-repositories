@@ -171,6 +171,8 @@
 - **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books):** Freely available programming books.
 - **[jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):** Master the command line, in one page.
 - **[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):** A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
+### HTML / CSS
+- **[https://github.com/thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist):** The perfect Front-End Checklist for modern websites and meticulous developers
 ### Typescript / Javascript
 - **[30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code):** Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - **[airbnb/javascript](https://github.com/airbnb/javascript):** JavaScript Style Guide.
