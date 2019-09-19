@@ -104,6 +104,7 @@
 - **[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs):** Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - **[googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber):** Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - **[glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo):** The easiest way to demonstrate your code in action.
+- **[home-assistant/home-assistant](https://github.com/home-assistant/home-assistant):** Open source home automation that puts local control and privacy first
 - **[imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server):** An evolving how-to guide for securing a Linux server.
 - **[isacikgoz/gitin](https://github.com/isacikgoz/gitin):** commit/branch/workdir explorer for git.
 - **[jenkins-x/jx](https://github.com/jenkins-x/jx):** Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm.
