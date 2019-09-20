@@ -49,6 +49,7 @@
 ## HTML / CSS / SVG
 - **[frappe/charts](https://github.com/frappe/charts):** Simple, responsive, modern SVG Charts with zero dependencies
 - **[jolaleye/cssfx](https://github.com/jolaleye/cssfx):** Beautifully simple click-to-copy CSS effects.
+- **[metafizzy/zdog](https://github.com/metafizzy/zdog):** Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - **[mozdevs/cssremedy](https://github.com/mozdevs/cssremedy):** Start your project with a remedy for the technical debt of CSS.
 
 ## Typescript / Javascript
@@ -102,6 +103,7 @@
 ## Tools
 - **[antonmedv/fx](https://github.com/antonmedv/fx):** Command-line tool and terminal JSON viewer.
 - **[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs):** Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
+- **[GoogleChromeLabs/psi](https://github.com/GoogleChromeLabs/psi):** PageSpeed Insights Reporting for Node
 - **[googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber):** Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - **[glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo):** The easiest way to demonstrate your code in action.
 - **[home-assistant/home-assistant](https://github.com/home-assistant/home-assistant):** Open source home automation that puts local control and privacy first
@@ -114,6 +116,7 @@
 - **[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings):** The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb):** record and replay the web.
 - **[rclone/rclone](https://github.com/rclone/rclone):** rsync for cloud storage
+- **[sharkdp/bat](https://github.com/sharkdp/bat):** A cat(1) clone with wings.
 - **[sqshq/sampler](https://github.com/sqshq/sampler):** A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - **[swc-project/swc](https://github.com/swc-project/swc):** Super-fast javascript to javascript compiler written in rust.
 
