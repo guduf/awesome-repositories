@@ -90,6 +90,11 @@
 - **[anthonynsimon/bild](https://github.com/anthonynsimon/bild):** A collection of parallel image processing algorithms in pure Go.
 - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
 - **[sqshq/sampler](https://github.com/sqshq/sampler):** A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- **[valyala/fasthttp](https://github.com/valyala/fasthttp):** Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+
+## Python
+-**[chriskiehl/Gooey](https://github.com/chriskiehl/Gooey):** Turn (almost) any Python command line program into a full GUI application with one line
+
 
 ## Cloud / Docker / Kubernetes
 - **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
@@ -101,6 +106,7 @@
 - **[weaveworks/scope](https://github.com/weaveworks/scope):** Monitoring, visualisation & management for Docker & Kubernetes.
  
 ## Tools
+- **[abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed):** Creating your own Awesome List of GitHub stars!
 - **[antonmedv/fx](https://github.com/antonmedv/fx):** Command-line tool and terminal JSON viewer.
 - **[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs):** Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - **[GoogleChromeLabs/psi](https://github.com/GoogleChromeLabs/psi):** PageSpeed Insights Reporting for Node
@@ -109,6 +115,7 @@
 - **[home-assistant/home-assistant](https://github.com/home-assistant/home-assistant):** Open source home automation that puts local control and privacy first
 - **[imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server):** An evolving how-to guide for securing a Linux server.
 - **[isacikgoz/gitin](https://github.com/isacikgoz/gitin):** commit/branch/workdir explorer for git.
+- **[jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else):** Blame someone else for your bad code.
 - **[jenkins-x/jx](https://github.com/jenkins-x/jx):** Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Jenkins, Knative Build, Prow, Skaffold and Helm.
 - **[joewalnes/websocketd](https://github.com/joewalnes/websocketd):** Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - **[keybase/client](https://github.com/keybase/client):** Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
