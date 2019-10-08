@@ -54,6 +54,7 @@
 
 ## Typescript / Javascript
 - **[akfish/node-vibrant](https://github.com/akfish/node-vibrant):** Extract prominent colors from an image.
+- **[apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js):** Interactive SVG Charts.
 - **[daybrush/moveable](https://github.com/daybrush/moveable):** Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable!
 - **[denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
@@ -100,7 +101,8 @@
 - **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
 - **[GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless):** Language focused docker images, minus the operating system.
 - **[jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)** The lazier way to manage everything docker.
-- **[mlabouardy/komiser](https://github.com/mlabouardy/komiser):** Cloud Environment Inspector
+- **[mlabouardy/komiser](https://github.com/mlabouardy/komiser):** Cloud Environment Inspector.
+- **[https://github.com/salesforce/sloop](https://github.com/salesforce/sloop)**: Kubernetes History Visualization.
 - **[vmware/octant](https://github.com/vmware/octant):** A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - **[wagoodman/dive](https://github.com/wagoodman/dive):** A tool for exploring each layer in a docker image.
 - **[weaveworks/scope](https://github.com/weaveworks/scope):** Monitoring, visualisation & management for Docker & Kubernetes.
@@ -164,6 +166,7 @@
 - **[Peltoche/lsd](https://github.com/Peltoche/lsd):** The next gen ls command.
 - **[pikapkg/pack](https://github.com/pikapkg/pack):** npm package building, reimagined.
 - **[public-apis/public-apis](https://github.com/public-apis/public-apis):** A collective list of free APIs for use in software and web development.
+- **[Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui):** Spotify for the terminal written in Rust.
 - **[solid/solid](https://github.com/solid/solid):** Solid - Re-decentralizing the web (project directory).
 - **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python):** All Algorithms implemented in Python.
 - **[transloadit/uppy](https://github.com/transloadit/uppy):** The next open source file uploader for web browsers.
