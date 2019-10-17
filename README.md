@@ -95,7 +95,7 @@
 - **[valyala/fasthttp](https://github.com/valyala/fasthttp):** Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 
 ## Python
--**[chriskiehl/Gooey](https://github.com/chriskiehl/Gooey):** Turn (almost) any Python command line program into a full GUI application with one line
+- **[chriskiehl/Gooey](https://github.com/chriskiehl/Gooey):** Turn (almost) any Python command line program into a full GUI application with one line
 
 
 ## Cloud / Docker / Kubernetes
