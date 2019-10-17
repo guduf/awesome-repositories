@@ -65,6 +65,7 @@
 - **[GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo):** Web rendering surface for Node applications.
 - **[GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink):** Comlink makes WebWorkers enjoyable.
 - **[gruns/ImmortalDB](https://github.com/gruns/ImmortalDB):** A relentless key-value store for the browser.
+- **[mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js):** Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL.
 - **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet):** A web-based JavaScript（canvas spreadsheet.
 - **[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch):** Next-Generation full text search library for Browser and Node.js
 - **[nodemailer/wildduck](https://github.com/nodemailer/wildduck):** Opinionated email server.
@@ -197,11 +198,13 @@
 - **[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript):** Clean Code concepts adapted for TypeScript
 - **[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts):** 33 concepts every JavaScript developer should know.
 - **[lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions):** A long list of (advanced) JavaScript questions, and their explanations
+- **[microsoft/SandDance](https://github.com/microsoft/SandDance):** Visually explore, understand, and present your data.
 - **[mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript):** Module thinking, principles, design patterns and best practices.
 ### GoLang
 - **[golang-standards/project-layout](https://github.com/golang-standards/project-layout)**: Standard Go Project Layout.
 ### Cloud / Docker / Kubernetes
 - **[hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories):** Compilation of public failure/horror stories related to Kubernetes
+- **[kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way):** Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 ### Tools
 - **[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible):** A collection of pure bash alternatives to external processes.
 - **[Jezzamonn/fourier](https://github.com/Jezzamonn/fourier):** An Interactive Introduction to Fourier Transforms
