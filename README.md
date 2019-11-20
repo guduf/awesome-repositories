@@ -60,6 +60,7 @@
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - **[ehmicky/log-process-errors](https://github.com/ehmicky/log-process-errors)** Show some love to Node.js process errors.
 - **[enquirer/enquirer](https://github.com/enquirer/enquirer):** Stylish, intuitive and user-friendly prompts.
+- **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js):** Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - **[franciscop/ola](https://github.com/franciscop/ola):** Smooth animation library for interpolating numbers.
 - **[gmrchk/swup](https://github.com/gmrchk/swup):** Complete, flexible, easy to use page transition library.
 - **[GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo):** Web rendering surface for Node applications.
@@ -75,6 +76,7 @@
 - **[playcanvas/engine](https://github.com/playcanvas/engine):** Fast and lightweight WebGL game engine.
 - **[pubkey/rxdb](https://github.com/pubkey/rxdb):** A realtime Database for the Web.
 - **[react-dnd/react-dnd](https://github.com/react-dnd/react-dnd):** Drag and Drop for React.
+- **[eact-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form):** React hooks for forms validation without the hassle.
 - **[react-icons/react-icons](https://github.com/react-icons/react-icons) :** svg react icons of popular icon packs
 - **[react-spring/react-spring](https://github.com/react-spring/react-spring)** A spring physics based React animation library
 - **[segmentio/evergreen](https://github.com/segmentio/evergreen):** Evergreen React UI Framework by Segment.
@@ -123,6 +125,7 @@
 - **[joewalnes/websocketd](https://github.com/joewalnes/websocketd):** Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - **[keybase/client](https://github.com/keybase/client):** Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - **[klaussinani/qoa](https://github.com/klaussinani/qoa):** Minimal interactive command-line prompts.
+- **[localstack/localstack](https://github.com/localstack/localstack):**  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - **[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings):** The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb):** record and replay the web.
 - **[rclone/rclone](https://github.com/rclone/rclone):** rsync for cloud storage
