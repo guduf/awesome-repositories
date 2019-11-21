@@ -138,7 +138,7 @@
 - **[Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon):** Open source neutral style icon system.
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
 - **[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts):** Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
-
+- **[uxbox/uxbox](https://github.com/uxbox/uxbox):** UXBOX - The Open-Source prototyping tool
 ## Misc
 - **[Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator):** Fantasy Map Generator and Editor based on Voronoi diagram.
 - **[beizhedenglong/weird-fonts](https://github.com/beizhedenglong/weird-fonts):** 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
