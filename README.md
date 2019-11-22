@@ -83,6 +83,7 @@
 - **[sanniassin/react-input-mask](https://github.com/sanniassin/react-input-mask):** Input masking component for React. Made with attention to UX.
 - **[sindresorhus/type-fest](https://github.com/sindresorhus/type-fest):** A collection of essential TypeScript types
 - **[storybooks/storybook](https://github.com/storybooks/storybook):** UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- **[tinacms/tinacms](https://github.com/tinacms/tinacms):** Tina is a site editing toolkit for modern React-based sites (Gatsby and Next.js)
 - **[transloadit/uppy](https://github.com/transloadit/uppy):** The next open source file uploader for web browsers.
 - **[uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js):** TypeScript web server - 15x faster than Deno.
 
@@ -112,6 +113,7 @@
  
 ## Tools
 - **[abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed):** Creating your own Awesome List of GitHub stars!
+- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd):** Declarative continuous deployment for Kubernetes.
 - **[antonmedv/fx](https://github.com/antonmedv/fx):** Command-line tool and terminal JSON viewer.
 - **[Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs):** Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - **[GoogleChromeLabs/psi](https://github.com/GoogleChromeLabs/psi):** PageSpeed Insights Reporting for Node
@@ -127,11 +129,13 @@
 - **[klaussinani/qoa](https://github.com/klaussinani/qoa):** Minimal interactive command-line prompts.
 - **[localstack/localstack](https://github.com/localstack/localstack):**  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - **[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings):** The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh):** A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb):** record and replay the web.
 - **[rclone/rclone](https://github.com/rclone/rclone):** rsync for cloud storage
 - **[sharkdp/bat](https://github.com/sharkdp/bat):** A cat(1) clone with wings.
 - **[sqshq/sampler](https://github.com/sqshq/sampler):** A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - **[swc-project/swc](https://github.com/swc-project/swc):** Super-fast javascript to javascript compiler written in rust.
+
 
 ## Design
 - **[DMarby/picsum-photos](https://github.com/DMarby/picsum-photos):** Lorem Ipsum... but for photos.
@@ -139,7 +143,10 @@
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
 - **[ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts):** Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack.
 - **[uxbox/uxbox](https://github.com/uxbox/uxbox):** UXBOX - The Open-Source prototyping tool
+
+
 ## Misc
+- **[algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer):** Interactive Online Platform that Visualizes Algorithms from Code
 - **[Azgaar/Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator):** Fantasy Map Generator and Editor based on Voronoi diagram.
 - **[beizhedenglong/weird-fonts](https://github.com/beizhedenglong/weird-fonts):** 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆.
 - **[cjbassi/gotop](https://github.com/cjbassi/gotop):** Another terminal based graphical activity monitor, inspired by gtop and vtop, this time written in Go!
