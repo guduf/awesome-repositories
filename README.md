@@ -75,8 +75,9 @@
 - **[palmerhq/tsdx](https://github.com/palmerhq/tsdx):** Zero-config CLI for TypeScript package development.
 - **[playcanvas/engine](https://github.com/playcanvas/engine):** Fast and lightweight WebGL game engine.
 - **[pubkey/rxdb](https://github.com/pubkey/rxdb):** A realtime Database for the Web.
+- **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer):** Headless Chrome Node.js API
 - **[react-dnd/react-dnd](https://github.com/react-dnd/react-dnd):** Drag and Drop for React.
-- **[eact-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form):** React hooks for forms validation without the hassle.
+- **[react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form):** React hooks for forms validation without the hassle.
 - **[react-icons/react-icons](https://github.com/react-icons/react-icons) :** svg react icons of popular icon packs
 - **[react-spring/react-spring](https://github.com/react-spring/react-spring)** A spring physics based React animation library
 - **[segmentio/evergreen](https://github.com/segmentio/evergreen):** Evergreen React UI Framework by Segment.
