@@ -94,6 +94,7 @@
 - **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
 - **[anthonynsimon/bild](https://github.com/anthonynsimon/bild):** A collection of parallel image processing algorithms in pure Go.
 - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
+- **[labstack/echo](https://github.com/labstack/echo):** High performance, minimalist Go web framework
 - **[sqshq/sampler](https://github.com/sqshq/sampler):** A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - **[valyala/fasthttp](https://github.com/valyala/fasthttp):** Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 
@@ -219,4 +220,5 @@
 - **[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible):** A collection of pure bash alternatives to external processes.
 - **[Jezzamonn/fourier](https://github.com/Jezzamonn/fourier):** An Interactive Introduction to Fourier Transforms
 - **[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules):** Flight rules for git.
+- **[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction):** A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
 - **[ziishaned/learn-regex](https://github.com/ziishaned/learn-regex):** Learn regex the easy way
