@@ -66,6 +66,7 @@
 - **[GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo):** Web rendering surface for Node applications.
 - **[GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink):** Comlink makes WebWorkers enjoyable.
 - **[gruns/ImmortalDB](https://github.com/gruns/ImmortalDB):** A relentless key-value store for the browser.
+- **[https://github.com/ianstormtaylor/slate]:** A completely customizable framework for building rich text editors.
 - **[mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js):** Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL.
 - **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet):** A web-based JavaScript（canvas spreadsheet.
 - **[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch):** Next-Generation full text search library for Browser and Node.js
@@ -104,6 +105,7 @@
 
 
 ## Cloud / Docker / Kubernetes
+- **[berkay-dincer/kubethanos](https://github.com/berkay-dincer/kubethanos):** Kills half of your randomly selected kubernetes pods.
 - **[divan/txqr](https://github.com/divan/txqr):** Transfer data via animated QR codes.
 - **[GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless):** Language focused docker images, minus the operating system.
 - **[jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)** The lazier way to manage everything docker.
@@ -140,6 +142,7 @@
 
 
 ## Design
+- **[cmiscm/leonsans](https://github.com/cmiscm/leonsans):** Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - **[DMarby/picsum-photos](https://github.com/DMarby/picsum-photos):** Lorem Ipsum... but for photos.
 - **[Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon):** Open source neutral style icon system.
 - **[rsms/inter](https://github.com/rsms/inter):** The Inter font family
@@ -197,8 +200,12 @@
 - **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books):** Freely available programming books.
 - **[jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):** Master the command line, in one page.
 - **[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):** A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
+
+
 ### HTML / CSS
 - **[thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist):** The perfect Front-End Checklist for modern websites and meticulous developers
+
+
 ### Typescript / Javascript
 - **[30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code):** Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - **[airbnb/javascript](https://github.com/airbnb/javascript):** JavaScript Style Guide.
@@ -212,14 +219,22 @@
 - **[lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions):** A long list of (advanced) JavaScript questions, and their explanations
 - **[microsoft/SandDance](https://github.com/microsoft/SandDance):** Visually explore, understand, and present your data.
 - **[mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript):** Module thinking, principles, design patterns and best practices.
+
+
 ### GoLang
 - **[golang-standards/project-layout](https://github.com/golang-standards/project-layout)**: Standard Go Project Layout.
+- **[godotengine/godot](https://github.com/godotengine/godot):** A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
+
+
 ### Cloud / Docker / Kubernetes
 - **[hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories):** Compilation of public failure/horror stories related to Kubernetes
 - **[kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way):** Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+
+
 ### Tools
 - **[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible):** A collection of pure bash alternatives to external processes.
 - **[Jezzamonn/fourier](https://github.com/Jezzamonn/fourier):** An Interactive Introduction to Fourier Transforms
 - **[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules):** Flight rules for git.
 - **[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction):** A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+- **[netdata/netdata](https://github.com/netdata/netdata):** https://github.com/netdata/netdata
 - **[ziishaned/learn-regex](https://github.com/ziishaned/learn-regex):** Learn regex the easy way
