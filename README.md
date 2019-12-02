@@ -66,7 +66,7 @@
 - **[GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo):** Web rendering surface for Node applications.
 - **[GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink):** Comlink makes WebWorkers enjoyable.
 - **[gruns/ImmortalDB](https://github.com/gruns/ImmortalDB):** A relentless key-value store for the browser.
-- **[https://github.com/ianstormtaylor/slate]:** A completely customizable framework for building rich text editors.
+- **[ianstormtaylor/slate]:** A completely customizable framework for building rich text editors.
 - **[mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js):** Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL.
 - **[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet):** A web-based JavaScript（canvas spreadsheet.
 - **[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch):** Next-Generation full text search library for Browser and Node.js
