@@ -200,6 +200,7 @@
 - **[charlax/professional-programming](https://github.com/charlax/professional-programming):** A collection of full-stack resources for programmers.
 - **[dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students):** Curated list of resources for college students.
 - **[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books):** Freely available programming books.
+- **[https://github.com/for-GET/http-decision-diagram](https://github.com/for-GET/http-decision-diagram):** An activity diagram to describe the resolution of HTTP response status codes, given various headers.
 - **[jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):** Master the command line, in one page.
 - **[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge):** A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
 
