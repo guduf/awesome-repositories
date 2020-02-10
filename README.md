@@ -159,6 +159,7 @@
 - **[copy/v86](https://github.com/copy/v86):** x86 virtualization in JavaScript, running in your browser and NodeJS.
 - **[danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x):** Build your own (insert technology here).
 - **[dessant/buster](https://github.com/dessant/buster):** Captcha solver extension for humans.
+- **[doccano/doccano](https://github.com/doccano/doccano):** Open source text annotation tool for machine learning practitioner. 
 - **[Eugeny/terminus](https://github.com/Eugeny/terminus):** A terminal for a more modern age
 - **[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95):** Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 - **[tonsky/FiraCode](https://github.com/tonsky/FiraCode):** Monospaced font with programming ligatures.
@@ -236,7 +237,6 @@
 
 ### Tools
 - **[dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible):** A collection of pure bash alternatives to external processes.
-- **[doccano/doccano](https://github.com/doccano/doccano):** Open source text annotation tool for machine learning practitioner. 
 - **[Jezzamonn/fourier](https://github.com/Jezzamonn/fourier):** An Interactive Introduction to Fourier Transforms
 - **[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules):** Flight rules for git.
 - **[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction):** A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
