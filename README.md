@@ -162,6 +162,7 @@
 - **[doccano/doccano](https://github.com/doccano/doccano):** Open source text annotation tool for machine learning practitioner. 
 - **[Eugeny/terminus](https://github.com/Eugeny/terminus):** A terminal for a more modern age
 - **[felixrieseberg/windows95](https://github.com/felixrieseberg/windows95):** Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+- **[FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF):** Free Lossless Image Format
 - **[tonsky/FiraCode](https://github.com/tonsky/FiraCode):** Monospaced font with programming ligatures.
 - **[firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker):** Secure and fast microVMs for serverless computing.
 - **[Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)**: Display and control your Android device
