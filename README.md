@@ -59,6 +59,7 @@
 - **[denoland/deno](https://github.com/denoland/deno):** A browser-like command line runtime.
 - **[developit/htm](https://github.com/developit/htm):** Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 - **[ehmicky/log-process-errors](https://github.com/ehmicky/log-process-errors)** Show some love to Node.js process errors.
+- **[elninotech/uppload](https://github.com/elninotech/uppload)** Uppload is a better JavaScript image uploader with 30+ plugins
 - **[enquirer/enquirer](https://github.com/enquirer/enquirer):** Stylish, intuitive and user-friendly prompts.
 - **[fabricjs/fabric.js](https://github.com/fabricjs/fabric.js):** Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - **[franciscop/ola](https://github.com/franciscop/ola):** Smooth animation library for interpolating numbers.
@@ -95,6 +96,7 @@
 ## GoLang
 - **[alexellis/inlets](https://github.com/alexellis/inlets):** Expose your local endpoints to the Internet.
 - **[anthonynsimon/bild](https://github.com/anthonynsimon/bild):** A collection of parallel image processing algorithms in pure Go.
+- **[https://github.com/fyne-io/fyne](https://github.com/fyne-io/fyne):** 
 - **[istio/istio](https://github.com/istio/istio):** Connect, secure, control, and observe services.
 - **[labstack/echo](https://github.com/labstack/echo):** High performance, minimalist Go web framework
 - **[sqshq/sampler](https://github.com/sqshq/sampler):** A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
