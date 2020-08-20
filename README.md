@@ -137,6 +137,7 @@
 - **[localstack/localstack](https://github.com/localstack/localstack):**  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - **[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings):** The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - **[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh):** A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration.
+- **[Requarks/wiki](https://github.com/Requarks/wiki):** A modern, lightweight and powerful wiki app built on NodeJS
 - **[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb):** record and replay the web.
 - **[rclone/rclone](https://github.com/rclone/rclone):** rsync for cloud storage
 - **[sharkdp/bat](https://github.com/sharkdp/bat):** A cat(1) clone with wings.
